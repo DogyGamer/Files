@@ -9,7 +9,10 @@
 ```ps1
 start chrome !!URL!!
 ```
-
+ОТКРЫТЬ ЕЩЕ ОДНУ СЕССИЮ
+```ps1
+start powershell "!!COMMAND!!"
+```
 
 СПИСОК ЗАПУЩЕННЫХ ПРОЦЕССОВ
 ```ps1
