@@ -9,3 +9,15 @@
 ```ps1
 start chrome !!URL!!
 ```
+
+
+СПИСОК ЗАПУЩЕННЫХ ПРОЦЕССОВ
+```ps1
+tasklist
+```
+
+
+ЗАКРЫТЬ ПРОГРМАММУ
+```ps1
+taskkill /im !!name!!.exe
+```
