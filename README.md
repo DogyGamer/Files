@@ -1,4 +1,10 @@
 # Files
+NMAP
+```bash
+nmap -o  #SCAN FOR OS
+```
+
+
 ЧТОБЫ ЗАПУСТИТЬ МУЗЯКУ
 ```ps1
 (New-Object Media.SoundPlayer "!!URL!!").Play();
@@ -18,7 +24,6 @@ start powershell "!!COMMAND!!"
 ```ps1
 tasklist
 ```
-
 
 ЗАКРЫТЬ ПРОГРМАММУ
 ```ps1
