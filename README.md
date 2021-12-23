@@ -1,4 +1,9 @@
 # Files
+
+LISTENER
+```bash
+rlwrap -cAr ncat --ssl -lvnp 9000
+```
 NMAP
 ```bash
 nmap -o  #SCAN FOR OS
