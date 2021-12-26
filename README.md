@@ -17,6 +17,8 @@ nmap -o  #SCAN FOR OS
 
 
 ЧТОБЫ ЗАПУСТИТЬ БРАВУЗЕР
+RICKROLL: https://youtu.be/dQw4w9WgXcQ?t=43s
+
 ```ps1
 start chrome !!URL!!
 ```
